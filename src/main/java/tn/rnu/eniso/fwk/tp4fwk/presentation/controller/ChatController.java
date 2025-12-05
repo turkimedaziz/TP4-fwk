@@ -1,7 +1,8 @@
 package tn.rnu.eniso.fwk.tp4fwk.presentation.controller;
 
 import org.springframework.web.bind.annotation.*;
-import tn.rnu.eniso.fwk.tp4fwk.dto.MessageDTO;
+
+import tn.rnu.eniso.fwk.tp4fwk.model.dto.MessageDTO;
 import tn.rnu.eniso.fwk.tp4fwk.service.ChatService;
 
 @RestController

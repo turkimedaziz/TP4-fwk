@@ -1,4 +1,4 @@
-package tn.rnu.eniso.fwk.tp4fwk.dto;
+package tn.rnu.eniso.fwk.tp4fwk.model.dto;
 
 import lombok.Getter;
 import lombok.Setter;
